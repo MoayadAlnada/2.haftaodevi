@@ -1,6 +1,9 @@
 # 201601716 2.Hafta Ödevi 15/10/2021
 <h2>Ödevin açıklaması</h2>
 <h3>2. Hafta Ödevini bu alana pdf şeklinde yükleyiniz. Yazacağınız rapor 1-2 sayfalık bir özet olabilir. Konunun ne işe yaradığı ve amacıyla ilgili kısa bir bilgi yeterlidir. Diğer haftalarda takip eden haftanın ödevini yapmalısınız.</h3>
+
+![ss](https://user-images.githubusercontent.com/76546216/137513298-1375cbc4-0001-43ee-8e1e-1c626d9e7c4e.PNG)
+
         
 
         }
@@ -47,4 +50,4 @@
     }
 }
 
-[2Haftaödevi.zip](https://github.com/MoayadAlnada/2.haftaodevi/files/7354311/2Haftaodevi.zip)[ss](https://user-images.githubusercontent.com/76546216/137511953-f513c2aa-5bf3-4bb5-8f5c-834e19c71b2c.PNG)
+[2Haftaödevi.zip](https://github.com/MoayadAlnada/2.haftaodevi/files/7354311/2Haftaodevi.zip)
